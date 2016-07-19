@@ -1,0 +1,4 @@
+before_script: bundle install
+language: ruby
+rvm:
+- 2.3.0
