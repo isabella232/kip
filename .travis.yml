@@ -1,4 +1,5 @@
 before_script: bundle install 
 language: ruby
+services: mongodb
 rvm:
 - 2.3.0
