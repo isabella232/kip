@@ -2,6 +2,7 @@
 <img width="420" alt="Hello Kip!" src="https://cloud.githubusercontent.com/assets/4056725/14231995/c9b0a714-f998-11e5-8788-2fce29ff0c8b.png">
 </p>
 
+[![Travis](https://travis-ci.org/xymor/kip.svg)](https://travis-ci.org/xymor/kip)
 [![CircleCI](https://img.shields.io/circleci/project/Angelmmiguel/kip/master.svg?style=flat-square)](https://circleci.com/gh/Angelmmiguel/kip/tree/master)
 [![Code Climate](https://codeclimate.com/github/Angelmmiguel/kip/badges/gpa.svg)](https://codeclimate.com/github/Angelmmiguel/kip)
 [![Test Coverage](https://codeclimate.com/github/Angelmmiguel/kip/badges/coverage.svg)](https://codeclimate.com/github/Angelmmiguel/kip/coverage)
